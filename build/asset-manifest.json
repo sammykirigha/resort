@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.50b8bd80.chunk.css",
+    "main.js": "/static/js/main.d6d8c598.chunk.js",
+    "main.js.map": "/static/js/main.d6d8c598.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4d0a4df8.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4d0a4df8.js.map",
+    "static/js/2.1ab05e40.chunk.js": "/static/js/2.1ab05e40.chunk.js",
+    "static/js/2.1ab05e40.chunk.js.map": "/static/js/2.1ab05e40.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.4b4632f9e0bf8309de694407da4a99f5.js": "/precache-manifest.4b4632f9e0bf8309de694407da4a99f5.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.50b8bd80.chunk.css.map": "/static/css/main.50b8bd80.chunk.css.map",
+    "static/js/2.1ab05e40.chunk.js.LICENSE.txt": "/static/js/2.1ab05e40.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/room-2.052c7681.jpeg",
+    "static/media/logo.svg": "/static/media/logo.9f0cccc1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d0a4df8.js",
+    "static/js/2.1ab05e40.chunk.js",
+    "static/css/main.50b8bd80.chunk.css",
+    "static/js/main.d6d8c598.chunk.js"
+  ]
+}
